@@ -1,0 +1,46 @@
+{
+  "name": "prop-comb",
+  "version": "1.0.0-alpha.2",
+  "description": "Create React components from a given combinations of props.",
+  "main": "index.js",
+  "author": "Balázs Orbán <info@balazsorban.com> (https://balazsorban.com)",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Balázs Orbán",
+      "email": "info@balazsorban.com",
+      "url": "https://balazsorban.com"
+    }
+  ],
+  "keywords": [
+    "react",
+    "props",
+    "combination",
+    "generate"
+  ],
+  "module": "index.js",
+  "types": "index.d.ts",
+  "private": false,
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "eslint": "^6.3.0",
+    "eslint-plugin-react": "^7.14.3",
+    "react": "16.9.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "bugs": {
+    "email": "info@balazsorban.com",
+    "url": "https://github.com/balazsorban44/prop-comb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balazsorban44/prop-comb.git"
+  },
+  "homepage": "https://github.com/balazsorban44/prop-comb#readme"
+}
