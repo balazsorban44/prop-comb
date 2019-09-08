@@ -1,6 +1,6 @@
 {
   "name": "prop-comb",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.4",
   "description": "Create React components from a given combinations of props.",
   "main": "index.js",
   "author": "Balázs Orbán <info@balazsorban.com> (https://balazsorban.com)",
